@@ -1,4 +1,5 @@
-<p align="center" style="font-size:32;">
+<p align="center"> <img src="https://i.ibb.co/XSgS30k/Welcome-to-Gangster-s-Profile-12-3-2024.png" height="110"> </p>
+
    Welcome to My GitHub Profile! 
 </p>
 
@@ -34,4 +35,4 @@
 
 2.  Let's Connect!
 
-    -  <img src="https://img.icons8.com/nolan/96/twitterx.png" height="40"> 
+    -  <a href="https://x.com/gangster_gpc"> <img src="https://img.icons8.com/nolan/96/twitterx.png" height="40"> </a> <a href="https://www.youtube.com/@Shortcut_4_Life"> <img src="https://img.icons8.com/color/96/youtube-play.png" height="40"> </a> <a href="https://discord.com/channels/@gangster_gpc"> <img src="https://img.icons8.com/arcade/128/discord-logo.png" height="40"> </a> <a href="https://facebook.com/shortcut4life"> <img src="https://img.icons8.com/color/96/facebook.png" height="40"> </a> 
