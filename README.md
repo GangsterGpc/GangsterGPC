@@ -29,7 +29,7 @@
 
 # Contacts 📬 
 
-1.  Why Follow Me
+1.  Why Follow Me?
    
     I frequently share open-source tools, bot frameworks, and guides to simplify crypto and airdrop bot development.
 
