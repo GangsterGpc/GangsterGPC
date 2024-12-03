@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://i.ibb.co/XSgS30k/Welcome-to-Gangster-s-Profile-12-3-2024.png" height="110"> </p>
 
-   Welcome to My GitHub Profile! 
-</p>
+   
+
 
 
 # About Me 👋
